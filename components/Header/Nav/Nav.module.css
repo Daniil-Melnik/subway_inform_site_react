@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  font-family: "Jura";
+}
+
+.nav__logo {
+  text-transform: uppercase;
+  font-style: italic;
+  color: var(--secondary-color);
+}
+
+.nav__list {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}

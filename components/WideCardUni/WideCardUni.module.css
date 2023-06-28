@@ -1,0 +1,42 @@
+.card {
+  width: 90%;
+  height: 400px;
+  /* background-color: var(--card-color); */
+  background: rgba(158, 158, 158, 0.8);
+  margin: auto auto auto auto;
+  border-radius: 20px;
+}
+
+.hr {
+  width: 80%;
+  size: 1%;
+  color: var(--head-color);
+}
+
+.title {
+  color: var(--head-color);
+  text-align: center;
+  font-family: "Jura";
+}
+
+.txt {
+  color: var(--head-color);
+  font-family: "Jura";
+  font-size: 1.1em;
+  font-weight: lighter;
+  margin-left: 9px;
+  margin-right: 5px;
+  text-align: justify;
+}
+
+.sptxt {
+  color: var(--head-color);
+  font-family: "Jura";
+  font-size: 1.1em;
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: underline;
+  margin-left: 9px;
+  margin-right: 5px;
+  text-align: justify;
+}

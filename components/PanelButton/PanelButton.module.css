@@ -1,0 +1,21 @@
+.PanelButton {
+  width: 100%;
+  height: 80px;
+  background-color: var(--panel-color);
+  display: table;
+  z-index: 100;
+}
+
+.PanelButton_text {
+  font-size: 1.5em;
+  font-family: "Jura";
+  color: var(--head-color);
+  text-decoration: none;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.PanelButton:hover {
+  background-color: var(--hover-color);
+}

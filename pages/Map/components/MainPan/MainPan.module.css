@@ -1,0 +1,71 @@
+.ln_pan {
+  background: url("../../../../public/gallery_1.png");
+  width: 85%;
+  background-repeat: no-repeat;
+  height: 1200px;
+  float: right;
+  -moz-transition: background 5s ease;
+  -webkit-transition: background 2s ease;
+  transition: background 2s ease;
+  position: absolute;
+  top: 15%;
+  right: 0;
+}
+
+.ln_card_list {
+  margin-top: 0;
+  height: 520px;
+  list-style: none;
+  display: flex;
+}
+
+.ln_card_list_bottom {
+  margin-top: 0;
+  margin-left: 16.5%;
+  height: 520px;
+  list-style: none;
+  display: flex;
+}
+
+.button {
+  height: 60px;
+  width: 150px;
+  margin-right: 5px;
+  background-color: var(--head-color);
+  border: 0;
+  opacity: 0.8;
+  font-family: "Jura";
+  font-size: 1em;
+  color: aliceblue;
+}
+
+.div_button {
+  margin-left: 42%;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+.input {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 3%;
+  height: 35px;
+  border-radius: 15px;
+  border: 0;
+  background: rgba(214, 214, 214, 0.8);
+  font-size: 1.2em;
+  font-family: "Jura";
+  color: var(--head-color);
+}
+
+.map {
+  max-height: 100%;
+  display: block;
+  margin: auto;
+}
+
+.map:hover {
+  cursor: pointer;
+}

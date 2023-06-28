@@ -1,0 +1,41 @@
+.tr_pan {
+  background: url("../../../../public/gallery_1.png");
+  /* background-color: var(--main-color); */
+  width: 85%;
+  background-repeat: no-repeat;
+  height: 1200px;
+  float: right;
+  position: absolute;
+  top: 15%;
+  right: 0;
+  transition: background 2s ease;
+}
+
+.tr_card_list {
+  height: 520px;
+  list-style: none;
+  display: flex;
+  margin-right: 10px;
+  padding: 0;
+  margin-left: 1%;
+}
+
+.button {
+  height: 60px;
+  width: 150px;
+  margin-right: 5px;
+  background-color: var(--head-color);
+  border: 0;
+  opacity: 0.8;
+  font-family: "Jura";
+  font-size: 1em;
+  color: aliceblue;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+.div_button {
+  margin-left: 42%;
+}

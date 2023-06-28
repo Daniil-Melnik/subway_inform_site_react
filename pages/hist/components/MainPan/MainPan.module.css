@@ -1,0 +1,25 @@
+.pan {
+  width: 80%;
+  height: 1200px;
+  float: right;
+  background-color: var(--main-color);
+  position: absolute;
+  top: 15%;
+  right: 0;
+}
+
+.txt {
+  font-family: "Jura";
+  font-size: 1.1em;
+  color: var(--head-color);
+  text-align: justify;
+  margin-right: 5%;
+}
+
+.title {
+  font-family: "Jura";
+  font-size: 1.3em;
+  color: var(--head-color);
+  font-weight: bolder;
+  text-align: center;
+}

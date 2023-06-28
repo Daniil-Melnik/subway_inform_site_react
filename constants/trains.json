@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "model": "81-704/705/706 'Ем'",
+    "year_begin": "1971",
+    "year_end": "-",
+    "lines": "l1.png",
+    "img": "/Em_1.png",
+    "link": "/about"
+  },
+  {
+    "id": 2,
+    "model": "81-717/714 'Номерной'",
+    "year_begin": "1981",
+    "year_end": "-",
+    "lines": "l2.png,l4.png,l5.png",
+    "img": "/81-717_714_1.png",
+    "link": "/about"
+  },
+  {
+    "id": 3,
+    "model": "81-540/541",
+    "year_begin": "1997",
+    "year_end": "-",
+    "lines": "l2.png,l4.png,l5.png",
+    "img": "/81-540_541_1.png",
+    "link": "/about"
+  },
+  {
+    "id": 4,
+    "model": "81-717.5П/714.5П 'Номерной'",
+    "year_begin": "2006",
+    "year_end": "-",
+    "lines": "l2.png,l4.png,l5.png",
+    "img": "/81-717_5P_1.png",
+    "link": "/about"
+  },
+  {
+    "id": 5,
+    "model": "81-556/557/558 'НеВа'",
+    "year_begin": "2013",
+    "year_end": "-",
+    "lines": "l3.png",
+    "img": "/Neva_1.png",
+    "link": "/about"
+  },
+  {
+    "id": 6,
+    "model": "81-722/723/724 'Юбилейный'",
+    "year_begin": "2015",
+    "year_end": "-",
+    "lines": "l1.png,l3.png",
+    "img": "/Yubik_1.png",
+    "link": "/about"
+  },
+
+  {
+    "id": 7,
+    "model": "81-725/726/727 'Балтиец'",
+    "year_begin": "2022",
+    "year_end": "-",
+    "lines": "l1.png",
+    "img": "/Balt_1.png",
+    "link": "/about"
+  }
+]

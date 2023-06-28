@@ -1,0 +1,31 @@
+.card {
+  width: 60%;
+  height: 50%;
+  margin: auto;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.title {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  color: black;
+  font-family: "Jura";
+  text-align: center;
+}
+
+.img {
+  display: flex;
+  margin: 5px auto auto auto;
+  max-height: 90%;
+  border-radius: 10px;
+}
+
+.img:hover {
+  cursor: pointer;
+}
